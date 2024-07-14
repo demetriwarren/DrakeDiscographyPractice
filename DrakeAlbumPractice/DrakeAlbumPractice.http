@@ -1,0 +1,6 @@
+@DrakeAlbumPractice_HostAddress = http://localhost:5092
+
+GET {{DrakeAlbumPractice_HostAddress}}
+Accept: application/json
+
+###
